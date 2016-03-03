@@ -1,0 +1,28 @@
+name: SIVAD BLOG
+favicon: null
+layout_spectrum: 0.015267452923581004
+typography_spectrum: 0.9628605630714446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.34698895644396544
+  lightness: 0.7228841101750731
+  saturation: 0.09794419817626476
+  rhythmicContrast: 0.6930462394375354
+purpose: []
